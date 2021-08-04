@@ -1,5 +1,5 @@
 # The Go Programming Language
-TEST 3
+TEST 4
 This repository provides the downloadable example programs
 for the book, "The Go Programming Language"; see http://www.gopl.io.
 
